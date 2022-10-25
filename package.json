@@ -1,0 +1,14 @@
+{
+  "name": "sockets-node",
+  "version": "1.0.0",
+  "description": "socket chat example",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node src/server.js",
+    "client": "node src/client.js"
+  },
+  "keywords": [],
+  "author": "Jona",
+  "license": "ISC"
+}
